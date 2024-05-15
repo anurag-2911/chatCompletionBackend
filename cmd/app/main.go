@@ -5,9 +5,7 @@ import (
 	"fmt"
 )
 
-
 func main() {
 	fmt.Println()
 	app.CallOpenAI()
-	
 }
